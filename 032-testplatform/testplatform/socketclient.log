@@ -1,0 +1,41 @@
+﻿  socketclient.c
+c:\users\clwclw\desktop\030-socketclient-起点\socketclient\socketclient.c(124): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+c:\users\clwclw\desktop\030-socketclient-起点\socketclient\socketclient.c(125): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+c:\users\clwclw\desktop\030-socketclient-起点\socketclient\socketclient.c(224): warning C4047: “函数”:“int”与“int *”的间接级别不同
+c:\users\clwclw\desktop\030-socketclient-起点\socketclient\socketclient.c(224): warning C4024: “decDataCallbak”: 形参和实参 2 的类型不同
+c:\users\clwclw\desktop\030-socketclient-起点\socketclient\socketclient.c(234): warning C4047: “函数”:“std::size_t”与“int *”的间接级别不同
+c:\users\clwclw\desktop\030-socketclient-起点\socketclient\socketclient.c(234): warning C4024: “memcpy”: 形参和实参 3 的类型不同
+c:\users\clwclw\desktop\030-socketclient-起点\socketclient\socketclient.c(235): warning C4047: “=”:“int”与“int *”的间接级别不同
+c:\users\clwclw\desktop\030-socketclient-起点\socketclient\socketclient.c(300): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+c:\users\clwclw\desktop\030-socketclient-起点\socketclient\socketclient.c(301): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+  itcastlog.c
+c:\users\clwclw\desktop\030-socketclient-起点\socketclient\itcastlog.c(34): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: 参见“localtime”的声明
+c:\users\clwclw\desktop\030-socketclient-起点\socketclient\itcastlog.c(52): warning C4013: “open”未定义；假设外部返回 int
+c:\users\clwclw\desktop\030-socketclient-起点\socketclient\itcastlog.c(47): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+c:\users\clwclw\desktop\030-socketclient-起点\socketclient\itcastlog.c(112): warning C4013: “write”未定义；假设外部返回 int
+c:\users\clwclw\desktop\030-socketclient-起点\socketclient\itcastlog.c(116): warning C4013: “close”未定义；假设外部返回 int
+c:\users\clwclw\desktop\030-socketclient-起点\socketclient\itcastlog.c(75): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+c:\users\clwclw\desktop\030-socketclient-起点\socketclient\itcastlog.c(79): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+c:\users\clwclw\desktop\030-socketclient-起点\socketclient\itcastlog.c(85): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+c:\users\clwclw\desktop\030-socketclient-起点\socketclient\itcastlog.c(89): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+c:\users\clwclw\desktop\030-socketclient-起点\socketclient\itcastlog.c(94): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1465): note: 参见“vsprintf”的声明
+c:\users\clwclw\desktop\030-socketclient-起点\socketclient\itcastlog.c(98): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+c:\users\clwclw\desktop\030-socketclient-起点\socketclient\itcastlog.c(102): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+  正在生成代码...
+c:\users\clwclw\desktop\030-socketclient-起点\socketclient\socketclient.c(401): warning C4715: “cltSocketRev2_Free”: 不是所有的控件路径都返回值
+    正在创建库 C:\Users\clwclw\Desktop\032-testplatform\testplatform\socketclient.lib 和对象 C:\Users\clwclw\Desktop\032-testplatform\testplatform\socketclient.exp
+  socketclient.vcxproj -> C:\Users\clwclw\Desktop\032-testplatform\testplatform\socketclient.dll
+  socketclient.vcxproj -> C:\Users\clwclw\Desktop\032-testplatform\testplatform\socketclient.pdb (Full PDB)
