@@ -1,5 +1,0 @@
-﻿  demo01_testplatform.c
-c:\users\clwclw\desktop\032-testplatform\testplatform\demo01_testplatform.c(30): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
-  testplatform.vcxproj -> C:\Users\clwclw\Desktop\032-testplatform\Debug\testplatform.exe
-  testplatform.vcxproj -> C:\Users\clwclw\Desktop\032-testplatform\Debug\testplatform.pdb (Full PDB)
